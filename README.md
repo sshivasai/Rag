@@ -28,7 +28,7 @@ A production-ready **Retrieval-Augmented Generation (RAG)** chatbot built with *
 - Responsive design
 - Real-time typing indicators
 
-## 📸 Screenshots
+## Architecture
 
 ### Chat Interface
 ```
