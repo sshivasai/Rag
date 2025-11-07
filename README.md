@@ -80,8 +80,8 @@ A production-ready **Retrieval-Augmented Generation (RAG)** chatbot built with *
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
-cd rag-chatbot
+git clone https://github.com/sshivasai/Rag.git
+cd Rag
 ```
 
 #### 2. Backend Setup
@@ -460,18 +460,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for LLMs
 - [Perplexity AI](https://www.perplexity.ai/) - Inspiration for citation system
 
-## 🗺️ Roadmap
-
-- [ ] Add support for more document types (DOCX, PPTX)
-- [ ] Implement user authentication
-- [ ] Add conversation export (PDF/Markdown)
-- [ ] Multi-language support
-- [ ] Voice input/output
-- [ ] Mobile app (React Native)
-- [ ] Advanced analytics dashboard
-- [ ] Team collaboration features
-- [ ] API rate limiting
-- [ ] Kubernetes deployment config
 
 
 **Built with:** Python • FastAPI • React • Claude AI • ChromaDB • Redis
