@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+backend/venv/
+
+# Environment variables
+.env
+.env.local
+.env.example
+
+Setup_1.md
+Setup_2.md
+Setup_3.md
+Setup_4.md
+Setup_5.md
+test_ai_facts.txt
+test_document_processor.py
+test_document_rag.py
+test_model_selection.py
+test_python_facts.txt
+test_python.txt
+test_redis_service.py
+test_services.py
+test_vector_service.py
+test.txt
+
+
+# Vector Database
+chroma_db/
+*.db
+*.sqlite
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# Uploads
+uploads/
+temp/
